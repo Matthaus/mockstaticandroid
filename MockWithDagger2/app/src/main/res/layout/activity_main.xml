@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.matthaus.mockwithdagger2.MainActivity">
+    tools:context="br.com.matthaus.mockwithdagger2.MainActivity">
 
     <TextView
         android:id="@+id/textview_DataHora"

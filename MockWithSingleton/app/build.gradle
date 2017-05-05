@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "br.cefetmg.mockwithsingleton"
+        applicationId "br.com.matthaus.mockwithsingleton"
         minSdkVersion 22
         targetSdkVersion 25
         versionCode 1
